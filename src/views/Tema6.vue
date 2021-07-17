@@ -30,7 +30,7 @@
             figure.position-absolute.bottom-0.end-0
               img(src="@/assets/curso/cont6/img01.svg", alt="información personal") 
 
-    p Como recomendación, siempre se deben implementar las normas más estrictas en este sentido. Ya que el servicio de un hotel se presta no solo a nacionales, conviene que las normas de seguridad de información personal estén acordes con normas internacionales como las de la Comunidad Económica Europea.
+    p.mb-0 Como recomendación, siempre se deben implementar las normas más estrictas en este sentido. Ya que el servicio de un hotel se presta no solo a nacionales, conviene que las normas de seguridad de información personal estén acordes con normas internacionales como las de la Comunidad Económica Europea.
 
 </template>
 

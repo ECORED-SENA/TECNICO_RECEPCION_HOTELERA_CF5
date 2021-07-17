@@ -8,7 +8,7 @@
         span 4
       h1 Seguridad de la información
     
-    figure
+    figure.mb-4
       img(src="@/assets/curso/cont4/img01.png", alt="Seguridad de la información")    
 
     p.mb-4 La ciberseguridad es la práctica de defender la información que se almacena en las computadoras, los servidores, los dispositivos móviles, los sistemas electrónicos, las redes y los datos de ataques maliciosos; también se conoce como seguridad de tecnología de la información o seguridad de la información electrónica. El término se aplica en diferentes contextos, desde los negocios hasta la informática móvil y puede dividirse en algunas categorías comunes (Kaspersky Labs, 2021).
@@ -19,7 +19,7 @@
       h2 4.1 La seguridad de red
 
     .row.justify-content-around.align-items-center.BGrey.pb-4
-      .col-7.col-lg-4
+      .col-7.col-lg-4.mb-4.mb-lg-0
         figure.position-relative
           img(src="@/assets/curso/cont4/img02.svg", alt="La seguridad de red") 
       .col-11.col-lg-7
@@ -32,7 +32,7 @@
       h2 4.2 La seguridad de las aplicaciones
 
     .row.justify-content-around.align-items-center.BGrey.pb-0
-      .col-7.col-lg-4
+      .col-7.col-lg-4.mb-4.mb-lg-0.mb-4.mb-lg-0
         figure.position-relative
           img(src="@/assets/curso/cont4/img03.svg", alt="La seguridad de las aplicaciones") 
       .col-11.col-lg-7
@@ -45,7 +45,7 @@
       h2 4.3 La seguridad de la información
 
     .row.justify-content-around.align-items-center.BGrey.pb-4
-      .col-7.col-lg-4
+      .col-7.col-lg-4.mb-4.mb-lg-0
         figure.position-relative
           img(src="@/assets/curso/cont4/img04.svg", alt="La seguridad de la información") 
       .col-11.col-lg-7
@@ -68,7 +68,7 @@
       h2 4.4 La seguridad de red
 
     .row.justify-content-around.align-items-center.BGrey.pb-4
-      .col-7.col-lg-4
+      .col-7.col-lg-4.mb-4.mb-lg-0
         figure.position-relative
           img(src="@/assets/curso/cont4/img05.svg", alt="La seguridad de red") 
       .col-11.col-lg-7
@@ -81,7 +81,7 @@
       h2 4.5 La recuperación ante desastres y la continuidad del negocio
 
     .row.justify-content-around.align-items-center.BGrey.pb-4
-      .col-7.col-lg-4
+      .col-7.col-lg-4.mb-4.mb-lg-0
         figure.position-relative
           img(src="@/assets/curso/cont4/img06.svg", alt="La seguridad de red") 
       .col-11.col-lg-7
@@ -94,7 +94,7 @@
       h2 4.6  La capacitación del usuario final 
 
     .row.justify-content-around.align-items-center.BGrey.pb-4
-      .col-7.col-lg-4
+      .col-7.col-lg-4.mb-4.mb-lg-0
         figure.position-relative
           img(src="@/assets/curso/cont4/img07.svg", alt="La seguridad de red") 
       .col-11.col-lg-7

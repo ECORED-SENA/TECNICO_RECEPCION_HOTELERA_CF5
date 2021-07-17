@@ -70,7 +70,6 @@
 
 .BGrey
   position: relative
-  z-index: 1
   
   &::before    
     content: ''
@@ -82,3 +81,9 @@
     bottom: 0
     left: 0
     right: 0
+
+@media screen and (max-width: 991px)
+  .BGrey  
+    &::before 
+      top: 30%
+    

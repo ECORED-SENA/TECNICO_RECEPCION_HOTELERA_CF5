@@ -209,134 +209,153 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Bardi, J. A. (2010). Hotel Front Office Management. En J. A. Bardi, Hotel Front Office Management. John Wiley & Sons.',
+    },
+    {
+      referencia:
+        'Cross, R. (1997). Revenue Management: Hard-Core Tactics for Market Domination. Broadway Books.',
+    },
+    {
+      referencia: 'Kasavana, M. L. (2011). Hospitality Upgrade.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.hospitalityupgrade.com/_magazine/magazine_Detail.asp/?ID=686',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Kaspersky Labs. (2021). Kaspersky Latinoamerica. Obtenido de ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://latam.kaspersky.com/resource-center/definitions/what-is-cyber-security',
     },
     {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+      referencia: 'Levy-Bonvin, J. (2003). Hospitalitynet',
+      link: 'https://www.hospitalitynet.org/opinion/4017990.html',
     },
     {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+      referencia: 'Mastel Hospitality. (2019). Mastel Hospitality.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.hospitalitynet.org/opinion/4017990.htmlhttps://www.mastelhospitality.com/evolution-of-opera-pms-oracle-hospitality/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Moll, S. V. (1984). Front-of-the-House Computer Systems: A User’s Guide. Hospitality Rewiev, 2(2), Art. 5.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?referer=https://en.wikipedia.org/&httpsredir=1&article=1036&context=hospitalityreview',
     },
     {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+      referencia: 'Opera. (2020). Oracle.com.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.oracle.com/in/industries/hospitality/what-is-hotel-pms.html',
     },
     {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+      referencia: 'Puorto, S. (2018). Phocuswire.com.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.phocuswire.com/A-brief-history-of-property-management-systems',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Channel Manager',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'sistema cuya función es unificar la información de tarifas y disponibilidad en los diferentes canales de comercio electrónico.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Cliente / Servidor',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'modelo de la arquitectura de <i>software</i> donde el programa informático se instala en servidor central (proveedor) y desde allí se despliegan los recursos o servicios a los equipos de los usuarios (clientes).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'CRM',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'abreviatura inglesa de <i>Customer Relationship Management</i> y son sistemas que ayudan a gestionar todos los aspectos de la relación empresa cliente.',
     },
     {
-      termino: 'Áectores',
+      termino: 'POS',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'abreviatura inglesa de <i>Point of Sale</i> o punto de venta y son los sistemas de facturación que se usan en puntos de servicio directo al cliente, como restaurantes, droguerías, cajas de supermercado etc.',
     },
     {
-      termino: 'Moda',
+      termino: 'SAAS',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'abreviatura inglesa de <i>Software as a Service</i> que se refiere a los paquetes informáticos que se consumen a demanda. Es decir, están disponibles en la nube vía internet y el usuario consume lo que necesita.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Moll, S. V. (1984). Front-of-the-House Computer Systems: A User´s Guide. Hospitality Review, 2(2). https://digitalcommons.fiu.edu/hospitalityreview/vol2/iss2/5”',
+      tipo: 'Articulo',
+      link:
+        'https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?referer=https://en.wikipedia.org/&httpsredir=1&article=1036&context=hospitalityreview',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Congreso de la República de Colombia. (18 de octubre de 2012). Ley 1581, por la cual se dictan disposiciones generales para la protección de datos personales. ',
+      tipo: 'Documento',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Oracle. (2021). Oracle Hospitality OPERA 5 Property Management. Oracle.',
+      tipo: 'Folleto',
+      descarga: '/downloads/anexo1.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
+      texto: 'Zeus. (s.f.). El poder de tener todo bajo control. Zeus.',
+      tipo: 'Folleto',
+      descarga: '/downloads/anexo2.pdf',
+    },
+    {
+      texto: 'Ezee. (s.f.). Ezee Absolute. Ezee.',
+      tipo: 'Folleto',
+      descarga: '/downloads/anexo3.pdf',
+    },
+    {
+      texto: 'Ezee. (s.f.). eZee Frontdesk Manual. Ezee',
+      tipo: 'Folleto',
+      descarga: '/downloads/anexo2.pdf',
+    },
+    {
+      texto:
+        'eZee Hotel software solutions provider. (2014). How to Take a Single Room Reservation in eZee Absolute Cloud Hotel Management Software - Old UI. [Video].',
+      tipo: 'Video Youtube',
+      link: 'https://youtu.be/F5Dt-WqJsqw',
+    },
+    {
+      texto:
+        'eZee Hotel software solutions provider. (2018). How to Take Group Bookings in eZee Absolute Hotel Management System? [Video]. YouTube.',
+      tipo: 'Video Youtube',
+      link: 'https://youtu.be/uU5HwMF7TMQ',
+    },
+    {
+      texto:
+        'eZee Hotel software solutions provider. (2020). How to Cancel a Reservation in eZee Absolute Using Extranet? [Video]. YouTube.',
+      tipo: 'Video Youtube',
+      link: 'https://youtu.be/5NBllgCC288',
+    },
+    {
+      texto:
+        'BBC News. (2018). Marriott: un ataque informático deja expuestos los datos de 500 millones de clientes del grupo hotelero. BBC News.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link: 'https://www.bbc.com/mundo/noticias-46404767',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'eZee Frontdesk. (s.f.). Centro de reservas.',
+      tipo: 'Página web',
+      link: 'https://www.ezeefrontdesk.com/hotel-pms.php/manuals/',
+    },
+    {
+      texto:
+        'Oracle. (2021). Bienvenido a OPERA Property Management System (PMS).',
+      tipo: 'Página web',
+      link:
+        'https://docs.oracle.com/cd/E98457_01/opera_5_6_core_help/welcome_to_pms.htm',
+    },
+    {
+      texto:
+        'Superintendencia de Industria y Comercio (s.f.). Protección de datos personales.',
+      tipo: 'Página web',
+      link: 'https://www.sic.gov.co/sobre-la-proteccion-de-datos-personales',
     },
   ],
   creditos: {
@@ -368,20 +387,20 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
