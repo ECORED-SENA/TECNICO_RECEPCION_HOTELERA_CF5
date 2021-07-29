@@ -12,8 +12,8 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10
-        .row.bg02.rounded
-          .col-md-7.p-4
+        .row.bg02.justify-content-center.align-items-end.rounded
+          .col-lg-7.p-4
             p.mb-4 En Colombia, la protección de datos personales está reglamentada por la Ley 1581 de 2012. Puede descargar el texto aquí:
             a.anexo.mb-4(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981" target="_blank")
               .anexo__icono
@@ -26,8 +26,8 @@
                 img(src="@/assets/template/icono-link.svg")
               .anexo__text
                 p Web. Industria y Comercio - Protección de Datos Personales.
-          .col-md-5.position-relative
-            figure.position-absolute.bottom-0.end-0
+          .col-8.col-lg-5
+            figure
               img(src="@/assets/curso/cont6/img01.svg", alt="información personal") 
 
     p.mb-0 Como recomendación, siempre se deben implementar las normas más estrictas en este sentido. Ya que el servicio de un hotel se presta no solo a nacionales, conviene que las normas de seguridad de información personal estén acordes con normas internacionales como las de la Comunidad Económica Europea.

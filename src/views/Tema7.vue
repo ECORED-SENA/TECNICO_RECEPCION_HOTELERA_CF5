@@ -29,28 +29,28 @@
 
           .row(numero="2" titulo="Gráfico de disponibilidad")
             .col-12
-              p.mb-4 Lista todas las llegadas registradas, junto con los datos de ingreso y estado actual.
+              p.mb-4 Permite visualizar la disponibilidad de recursos disponibles.
 
               figure
                 img(src='@/assets/curso/cont7/03.png', alt='Gráfico de disponibilidad')
           
           .row(numero="3" titulo="Reporte de cancelaciones")
             .col-12
-              p.mb-4 Lista todas las llegadas registradas, junto con los datos de ingreso y estado actual.
+              p.mb-4 Permite visualizar las cancelaciones realizadas por periodos de tiempos predeterminados.
 
               figure
                 img(src='@/assets/curso/cont7/04.png', alt='Reporte de cancelaciones')
           
           .row(numero="4" titulo="Reporte mensual de inventario")
             .col-12
-              p.mb-4 Lista todas las llegadas registradas, junto con los datos de ingreso y estado actual.
+              p.mb-4 Permite llevar un control mensual de los recursos registrados en el inventario.
 
               figure
                 img(src='@/assets/curso/cont7/05.png', alt='Reporte mensual de inventario')
           
           .row(numero="5" titulo="Reporte de reservaciones")
             .col-12
-              p.mb-4 Lista todas las llegadas registradas, junto con los datos de ingreso y estado actual.
+              p.mb-4 Permite llevar un control de las reservaciones de acuerdo con tiempo determinado.
 
               figure
                 img(src='@/assets/curso/cont7/06.png', alt='Reporte de reservaciones')
@@ -74,7 +74,7 @@
           
           .row(numero="3" titulo="Grupos en casa")
             .col-12
-              p.mb-4 Muestra las reservas categorizados por grupos Inhouse o registradas.  
+              p.mb-4 Muestra las reservas categorizados por grupos #[em Inhouse] o registradas.  
 
               figure
                 img(src='@/assets/curso/cont7/09.png', alt='Grupos en casa')
@@ -88,7 +88,7 @@
           
           .row(numero="5" titulo="Ingresos mensuales por grupo ")
             .col-12
-              p.mb-4 Permite llevar un control de las reservaciones de acuerdo con tiempo determinado.
+              p.mb-4 Muestra el resumen de ingresos y los detalles de grupos registrados mensualmente.
 
               figure
                 img(src='@/assets/curso/cont7/11.png', alt='Ingresos mensuales por grupo ')

@@ -65,7 +65,7 @@
     separador
 
     #t4_4.titulo-segundo
-      h2 4.4 La seguridad de red
+      h2 4.4 La seguridad operativa
 
     .row.justify-content-around.align-items-center.BGrey.pb-4
       .col-7.col-lg-4.mb-4.mb-lg-0

@@ -30,7 +30,7 @@
               .anexo__texto
                 p Oracle.
             
-            a.anexo.mb-4(:href="obtenerLink('/downloads/anexo4.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/anexo04.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

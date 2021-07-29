@@ -79,7 +79,7 @@
           p.mb-0 Con el avance de los sistemas de administración de propiedades de computación en la nube para hoteles, amplían su funcionalidad hacia nuevas áreas de servicio, como las características para los huéspedes. Estos incluyen check-in en línea, servicio a la habitación, controles en la habitación, comunicación entre el personal invitado, el conserje virtual y más (Kasavana, 2011).
         
         .cajon.color-secundario.p-4
-          p.mb-0 Estas nuevas funcionalidades son utilizadas, principalmente, por los huéspedes en sus propios dispositivos móviles o los proporcionaos por el hotel en los vestíbulos o habitaciones. 
+          p.mb-0 Estas nuevas funcionalidades son utilizadas, principalmente, por los huéspedes en sus propios dispositivos móviles o los proporcionados por el hotel en los vestíbulos o habitaciones. 
     
     Separador
 
@@ -219,9 +219,9 @@
 
     figure.bg011.p-4.mb-1
       h3.text-center.mb-4
-        | FUNCIONES / MODULOS SISTEMA PMS
+        | Funciones / Modulos Sistema
         br
-        | PROPERTY MANAGEMENT SYSTEM
+        | PMS - Property Management Systems
       img(src="@/assets/curso/cont1/img15.svg", alt="Funciones ")
     figcaption.mb-4 Elaborado por: Harbey Castelblanco
 
@@ -240,7 +240,7 @@
     
     TabsB.color-acento-contenido.mb-4
     
-      .p-4.p-md-5(titulo="Modulo de reservas" :icono="require('@/assets/curso/cont1/nav1.svg')")
+      .p-4.p-md-5(titulo="Módulo de reservas" :icono="require('@/assets/curso/cont1/nav1.svg')")
         h4 Módulo de reservas
         p En un sistema de gestión de propiedad: el módulo de reservas es la entrada del sistema y tiene como objetivo gestionar los registros de datos de las reservas del establecimiento y enviarlas luego al departamento de recepción.
         p.mb-4 Hoy en día, la capacidad del sistema de gestionar reservas en el medioambiente digital desde diferentes canales, incluidos los propios como el motor de reservas es una característica fundamental. Junto a esto se evalúa la sencillez en el proceso de toma de la reserva.
@@ -330,9 +330,10 @@
                 li 
                   i.fas.fa-circle.Ali
                   | Servicio de despertador.
-                li.mb-0 
+                li 
                   i.fas.fa-circle.Ali
                   | Auditoría nocturna.
+
           .col-8.col-lg-5
             figure
               img(src='@/assets/curso/cont1/img18.svg', alt='Recepción')
@@ -377,7 +378,7 @@
         h4 Datos del cliente & CRM
         p Cuando un cliente del hotel está a gusto con los servicios recibidos, volverá a visitar o recomendará el hotel. Por este motivo, personalizar las experiencias es una tarea transversal de toda la organización hotelera sin importar su tamaño. 
 
-        p.mb-4 Para ello, la gestión de datos y preferencias de clientes a través del módulo CRM (Customer Relationship Management) ayuda a la construcción de relaciones sólidas y duraderas con los clientes, mejorando así la propuesta de valor de la marca.
+        p.mb-4 Para ello, la gestión de datos y preferencias de clientes a través del módulo CRM (#[em Customer Relationship Management]) ayuda a la construcción de relaciones sólidas y duraderas con los clientes, mejorando así la propuesta de valor de la marca.
 
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-lg-0
@@ -403,9 +404,9 @@
             figure
               img(src='@/assets/curso/cont1/img20.svg', alt='Datos del cliente & CRM')
       
-      .p-4.p-md-5(titulo="Datos del cliente & CRM" :icono="require('@/assets/curso/cont1/nav5.svg')")
-        h4 Datos del cliente & CRM
-        p El módulo de administración (back office) del PMS mantiene registros de informes contables anuales y organiza los detalles financieros, supervisa los problemas administrativos y técnicos. 
+      .p-4.p-md-5(titulo="Administración" :icono="require('@/assets/curso/cont1/nav5.svg')")
+        h4 Administración
+        p El módulo de administración (#[em back office]) del PMS mantiene registros de informes contables anuales y organiza los detalles financieros, supervisa los problemas administrativos y técnicos. 
 
         p.mb-4 Es importante que los miembros del accedan fácilmente a la información y bases de datos para tomar decisiones informadas que garanticen mejores experiencias de los clientes.
 
@@ -487,7 +488,7 @@
         h4 Interfaces
         p En la industria hotelera, son múltiples las aplicaciones (software) que mejoran el performance de un área o procesos específicos dentro de la operación.
 
-        p.mb-4 Para que su desempeño sea eficiente estas deben estar integradas con el PMS, a este proceso se le conoce con el nombre de interfase.
+        p.mb-4 Para que su desempeño sea eficiente estas deben estar integradas con el PMS, a este proceso se le conoce con el nombre de interfaz.
 
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-lg-0
@@ -541,7 +542,7 @@
           tr
             td Opera
             td Oracle
-            td Lider mundial
+            td Líder mundial
             td
               a(href='https://www.oracle.com/co/industries/hospitality/products/opera-cloud-services.html'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico02.svg', alt='Oracle Sitio Web')
@@ -549,12 +550,12 @@
               a(href='https://www.oracle.com/co/industries/hospitality/'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico01.svg', alt='Oracle Brouchure')
             td
-              a(href='/downloads/anexo1.pdf'  target="_blank")
+              a(href='/downloads/anexo01.pdf'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico03.svg', alt='Oracle PDF')
           tr
             td Zeus
             td Siesa
-            td Lider Colombia
+            td Líder Colombia
             td
               a(href='https://www.zeustecnologia.com/productos/front-office/hoteles'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico02.svg', alt='Zeus Sitio Web')
@@ -562,7 +563,7 @@
               a(href='https://www.zeustecnologia.com/productos/front-office/hoteles'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico01.svg', alt='Zeus Brouchure')
             td
-              a(href='/downloads/anexo2.pdf'  target="_blank")
+              a(href='/downloads/anexo02.pdf'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico03.svg', alt='Zeus PDF')
           tr
             td Ezee
@@ -575,7 +576,7 @@
               a(href='https://www.ezeetechnosys.com.mx/?lang=es'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico01.svg', alt='Ezee Brouchure')
             td
-              a(href='/downloads/anexo3.pdf'  target="_blank")
+              a(href='/downloads/anexo03.pdf'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico03.svg', alt='Ezee PDF')
         
 </template>

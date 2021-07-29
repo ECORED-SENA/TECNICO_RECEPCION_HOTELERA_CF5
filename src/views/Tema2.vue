@@ -15,13 +15,15 @@
 
     #t2_1.titulo-segundo
       h2 2.1.	Cómo tomar una reserva en PMS 
+    
+    p.mb-4 El proceso de toma de reservas en un PMS es similar independientemente del proveedor del #[em software]. 
 
     .row.justify-content-center
       .col-md-10.col-lg-6
         figure.mb-4
-          img(src="@/assets/curso/cont2/img02.svg", alt="Toma de reservas en PMS")
+          img(src="@/assets/curso/cont2/img02.svg", alt="Toma de reservas en PMS") 
     
-    h5.text-center.bg06.text-light.roundedTop.p-3 En ese sentido, algunas recomendaciones a tener en cuenta son:
+    h5.text-center.bg06.text-light.roundedTop.p-3 Toda reserva debe cumplir con ciertos protocolos al momento de realizarla, para se debe tener en cuenta:
 
     .row.g-3.mb-4
       .col-md-6.col-lg-4
@@ -38,7 +40,7 @@
             .col-3
               img(src="@/assets/curso/cont2/ico02.svg", alt="Icono")
             .col-9
-              p.mb-0 Verifique que tenga conexión a internet.
+              p.mb-0 Verifique que este LOG IN en el sistema.
 
       .col-md-6.col-lg-4
         .bg02.p-3.rounded.h-100
@@ -46,7 +48,7 @@
             .col-3
               img(src="@/assets/curso/cont2/ico03.svg", alt="Icono")
             .col-9
-              p.mb-0 Verifique que tenga conexión a internet.
+              p.mb-0 Digite correctamente el nombre. Use el alfabeto fonético.
 
       .col-md-6.col-lg-4
         .bg02.p-3.rounded.h-100
@@ -70,7 +72,7 @@
             .col-3
               img(src="@/assets/curso/cont2/ico06.svg", alt="Icono")
             .col-9
-              p.mb-0 Una vez que haya digitado la información correctamente, al dar clic al botón reservar. Verifique que el sistema le dé un código de confirmación.
+              p.mb-0 Una vez que haya digitado la información correctamente, al dar clic al botón reservar, verifique que el sistema le dé un código de confirmación.
       
     .row.justify-content-center
       .col-lg-10.gradient1.roundedButtom.borderHTop.p-3
@@ -149,7 +151,7 @@
             .col-3
               img(src="@/assets/curso/cont2/ico09.svg", alt="Icono")
             .col-9
-              p.mb-0 Una vez que haya digitado la información correctamente, al dar clic al botón reservar. Verifique que el sistema le dé un código de confirmación.
+              p.mb-0 Una vez que haya digitado la información correctamente, al dar clic al botón reservar, verifique que el sistema le dé un código de confirmación.
       
     .row.justify-content-center
       .col-lg-10.gradient1.roundedButtom.borderHTop.p-3
@@ -174,6 +176,8 @@
 
     figure.mb-4
       img(src="@/assets/curso/cont2/img04.svg", alt="Cancelar una reserva")
+    
+    h5.text-center.bg06.text-light.roundedTop.p-3 Ahora veamos los protocolos a cumplir para cancelar una reserva. 
 
     .row.g-3.mb-4
       .col-md-6.col-lg-3
@@ -233,6 +237,8 @@
       .col-md-10.col-lg-6
         figure.mb-4
           img(src="@/assets/curso/cont2/img05.svg", alt="Cómo modificar una reserva")
+    
+    h5.text-center.bg06.text-light.roundedTop.p-3 Así mismo, como en los procesos descritos anteriormente, se deben cumplir con los siguientes protocolos: 
     
     .row.g-3.mb-4
       .col-md-6.col-lg-3

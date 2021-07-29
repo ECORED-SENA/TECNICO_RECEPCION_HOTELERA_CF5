@@ -65,7 +65,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.7',
-            titulo: 'Principales Proveedores',
+            titulo: 'Principales proveedores',
             hash: 't1_7',
           },
         ],
@@ -74,7 +74,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Instructivos & Protocolos',
+        titulo: 'Instructivos y protocolos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -222,7 +222,7 @@ export default {
     },
     {
       referencia:
-        'Kaspersky Labs. (2021). Kaspersky Latinoamerica. Obtenido de ',
+        'Kaspersky Labs. (2021). Kaspersky Latinoamérica. Obtenido de ',
       link:
         'https://latam.kaspersky.com/resource-center/definitions/what-is-cyber-security',
     },
@@ -233,7 +233,7 @@ export default {
     {
       referencia: 'Mastel Hospitality. (2019). Mastel Hospitality.',
       link:
-        'https://www.hospitalitynet.org/opinion/4017990.htmlhttps://www.mastelhospitality.com/evolution-of-opera-pms-oracle-hospitality/',
+        'https://www.mastelhospitality.com/evolution-of-opera-pms-oracle-hospitality/',
     },
     {
       referencia:
@@ -283,7 +283,7 @@ export default {
     {
       texto:
         'Moll, S. V. (1984). Front-of-the-House Computer Systems: A User´s Guide. Hospitality Review, 2(2). https://digitalcommons.fiu.edu/hospitalityreview/vol2/iss2/5”',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       link:
         'https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?referer=https://en.wikipedia.org/&httpsredir=1&article=1036&context=hospitalityreview',
     },
@@ -298,22 +298,22 @@ export default {
       texto:
         'Oracle. (2021). Oracle Hospitality OPERA 5 Property Management. Oracle.',
       tipo: 'Folleto',
-      descarga: '/downloads/anexo1.pdf',
+      descarga: '/downloads/anexo01.pdf',
     },
     {
       texto: 'Zeus. (s.f.). El poder de tener todo bajo control. Zeus.',
       tipo: 'Folleto',
-      descarga: '/downloads/anexo2.pdf',
+      descarga: '/downloads/anexo02.pdf',
     },
     {
       texto: 'Ezee. (s.f.). Ezee Absolute. Ezee.',
       tipo: 'Folleto',
-      descarga: '/downloads/anexo3.pdf',
+      descarga: '/downloads/anexo03.pdf',
     },
     {
       texto: 'Ezee. (s.f.). eZee Frontdesk Manual. Ezee',
       tipo: 'Folleto',
-      descarga: '/downloads/anexo2.pdf',
+      descarga: '/downloads/anexo04.pdf',
     },
     {
       texto:
@@ -373,6 +373,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Harbey Castelblanco',
+        cargo: 'Experto técnico',
+        centro: 'Centro Nacional Colombo Alemán',
+      },
+      {
+        nombre: 'Leydy Jhuliana Jaramillo Mejía',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Perilla Méndez',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -405,7 +427,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
