@@ -219,7 +219,7 @@
 
     figure.bg011.p-4.mb-1
       h3.text-center.mb-4
-        | Funciones / Modulos Sistema
+        | Funciones / Módulos Sistema
         br
         | PMS - Property Management Systems
       img(src="@/assets/curso/cont1/img15.svg", alt="Funciones ")
@@ -550,7 +550,7 @@
               a(href='https://www.oracle.com/co/industries/hospitality/'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico01.svg', alt='Oracle Brouchure')
             td
-              a(href='/downloads/anexo01.pdf'  target="_blank")
+              a(:href="obtenerLink('/downloads/anexo01.pdf')"  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico03.svg', alt='Oracle PDF')
           tr
             td Zeus
@@ -563,7 +563,7 @@
               a(href='https://www.zeustecnologia.com/productos/front-office/hoteles'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico01.svg', alt='Zeus Brouchure')
             td
-              a(href='/downloads/anexo02.pdf'  target="_blank")
+              a(:href="obtenerLink('/downloads/anexo02.pdf')"  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico03.svg', alt='Zeus PDF')
           tr
             td Ezee
@@ -576,7 +576,7 @@
               a(href='https://www.ezeetechnosys.com.mx/?lang=es'  target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico01.svg', alt='Ezee Brouchure')
             td
-              a(href='/downloads/anexo03.pdf'  target="_blank")
+              a(:href="obtenerLink('/downloads/anexo03.pdf')" target="_blank")
                 img.w-25.mx-auto(src='@/assets/curso/cont1/ico03.svg', alt='Ezee PDF')
         
 </template>

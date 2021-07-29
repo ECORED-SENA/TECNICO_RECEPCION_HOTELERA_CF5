@@ -15,7 +15,7 @@
         figure.mb-4
           img(src="@/assets/curso/intro/img02.svg", alt="PMS")
         .bg-light.p-4
-          p.mb-0 Hay que anotar que en la hotelería actual los sistemas de gestión de propiedad o PMS son la columna vertebral de la operación diaria, ya que en ellos se realizan los procedimientos de rutina como toma de reservas, check-in, cargos durante la estadía, check out y un proceso muy importante que es la auditoría nocturna. También en estos sistemas por medio de interfaces se controlan las operaciones de alimentos y bebidas, banquetes, spa, parqueadero, seguridad, contabilidad, conserjería y ama de llaves. Estos sistemas no están adscritos solo a la recepción, sino que tocan todos los puntos del hotel, lo que garantiza un manejo fluido de la información y el servicio al cliente.
+          p.mb-0 Hay que anotar que en la hotelería actual los sistemas de gestión de propiedad o PMS son la columna vertebral de la operación diaria, ya que en ellos se realizan los procedimientos de rutina como toma de reservas, #[em check-in], cargos durante la estadía, #[em check out] y un proceso muy importante que es la auditoría nocturna. También en estos sistemas por medio de interfaces se controlan las operaciones de alimentos y bebidas, banquetes, spa, parqueadero, seguridad, contabilidad, conserjería y ama de llaves. Estos sistemas no están adscritos solo a la recepción, sino que tocan todos los puntos del hotel, lo que garantiza un manejo fluido de la información y el servicio al cliente.
       .col-lg-6.position-relative
         figure.mb-4
           img(src="@/assets/curso/intro/img01.png", alt="img PMS")

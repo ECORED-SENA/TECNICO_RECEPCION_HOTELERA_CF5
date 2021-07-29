@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Software hotelero y las reservaciones de hoteles',
     descripcionCurso:
-      'Existe una amplia variedad de sistemas de gestión hotelera o PMS (Property Management System) por sus siglas en inglés, que ayudan a agilizar las operaciones de control y a facilitar los métodos de control de estas. Estos se dividen en módulos para cada área de la propiedad.',
+      'Existe una amplia variedad de sistemas de gestión hotelera o PMS (<em>Property Management System</em>) por sus siglas en inglés, que ayudan a agilizar las operaciones de control y a facilitar los métodos de control de estas. Estos se dividen en módulos para cada área de la propiedad.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -411,12 +411,6 @@ export default {
       {
         nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
