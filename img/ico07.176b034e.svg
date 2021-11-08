@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62.13" viewBox="0 0 62 62.13">
+  <g id="factura" transform="translate(-1 -1)">
+    <g id="Grupo_59844" data-name="Grupo 59844">
+      <g id="Grupo_59836" data-name="Grupo 59836">
+        <path id="Trazado_106718" data-name="Trazado 106718" d="M12,2V62h1l3.81-2,3.8,2,3.8-2,3.8,2,3.8-2,3.8,2,3.8-2,3.8,2,3.79-2L51,62h1V2Z" fill="#f0d0b4"/>
+      </g>
+      <g id="Grupo_59837" data-name="Grupo 59837">
+        <path id="Trazado_106719" data-name="Trazado 106719" d="M32,52H48v4H32Z" fill="#ff826e"/>
+      </g>
+      <g id="Grupo_59838" data-name="Grupo 59838">
+        <path id="Trazado_106720" data-name="Trazado 106720" d="M32,32H48V48H32Z" fill="#ff826e"/>
+      </g>
+      <g id="Grupo_59839" data-name="Grupo 59839">
+        <path id="Trazado_106721" data-name="Trazado 106721" d="M16,6H38V16H16Z" fill="#e6e9ed"/>
+      </g>
+      <g id="Grupo_59840" data-name="Grupo 59840">
+        <path id="Trazado_106722" data-name="Trazado 106722" d="M12,32H26a2.006,2.006,0,0,1,2,2V44H23a1,1,0,0,0-1,1v5H4a2.006,2.006,0,0,1-2-2V38H7a1,1,0,0,0,1-1V32Z" fill="#b4dd7f"/>
+      </g>
+      <g id="Grupo_59841" data-name="Grupo 59841">
+        <path id="Trazado_106723" data-name="Trazado 106723" d="M8,32v5a1,1,0,0,1-1,1H2V34a2.006,2.006,0,0,1,2-2Z" fill="#fcd770"/>
+      </g>
+      <g id="Grupo_59842" data-name="Grupo 59842">
+        <path id="Trazado_106724" data-name="Trazado 106724" d="M28,44v4a2.006,2.006,0,0,1-2,2H22V45a1,1,0,0,1,1-1Z" fill="#fcd770"/>
+      </g>
+      <g id="Grupo_59843" data-name="Grupo 59843">
+        <circle id="Elipse_4154" data-name="Elipse 4154" cx="10" cy="10" r="10" transform="translate(42 2)" fill="#fcd770"/>
+      </g>
+    </g>
+    <g id="Grupo_59845" data-name="Grupo 59845">
+      <path id="Trazado_106725" data-name="Trazado 106725" d="M53,9a1,1,0,0,1,1,1h2a3,3,0,0,0-3-3V5H51V7H48v3a3,3,0,0,0,3,3h2a1,1,0,0,1,1,1v1H51a1,1,0,0,1-1-1H48a3,3,0,0,0,3,3v2h2V17h3V14a3,3,0,0,0-3-3H51a1,1,0,0,1-1-1V9Z"/>
+      <path id="Trazado_106726" data-name="Trazado 106726" d="M11,35h2v2H11Z"/>
+      <path id="Trazado_106727" data-name="Trazado 106727" d="M11,39h2v2H11Z"/>
+      <path id="Trazado_106728" data-name="Trazado 106728" d="M5,41H9v2H5Z"/>
+      <path id="Trazado_106729" data-name="Trazado 106729" d="M11,45H5v2h8V43H11Z"/>
+      <path id="Trazado_106730" data-name="Trazado 106730" d="M19,39h2V35H15v2h4Z"/>
+      <path id="Trazado_106731" data-name="Trazado 106731" d="M17,43H15v4h4V45H17Z"/>
+      <path id="Trazado_106732" data-name="Trazado 106732" d="M15,39h2v2H15Z"/>
+      <path id="Trazado_106733" data-name="Trazado 106733" d="M23,35h2v2H23Z"/>
+      <path id="Trazado_106734" data-name="Trazado 106734" d="M23,39h2v2H23Z"/>
+      <path id="Trazado_106735" data-name="Trazado 106735" d="M63,12A11.013,11.013,0,0,0,52,1H11V31H4a3,3,0,0,0-3,3V48a3,3,0,0,0,3,3h7V63h2.247l3.559-1.87,3.806,2,3.8-2,3.8,2,3.8-2,3.8,2,3.8-2,3.8,2,3.8-2L50.753,63H53V22.949A11.01,11.01,0,0,0,63,12ZM4,33H7v4H3V34A1,1,0,0,1,4,33ZM3,48V39H7a2,2,0,0,0,2-2V33H26a1,1,0,0,1,1,1v9H23a2,2,0,0,0-2,2v4H4A1,1,0,0,1,3,48Zm24-3v3a1,1,0,0,1-1,1H23V45ZM47.2,58.87l-3.8,2-3.8-2-3.8,2-3.8-2-3.8,2-3.8-2-3.8,2-3.806-2L13,60.87V51H26a3,3,0,0,0,3-3V34a3,3,0,0,0-3-3H13V3H45.7A10.987,10.987,0,0,0,51,22.949v37.92ZM52,21a9,9,0,1,1,9-9A9.01,9.01,0,0,1,52,21Z"/>
+      <path id="Trazado_106736" data-name="Trazado 106736" d="M31,57H49V51H31Zm8-2H37V53h2Zm2-2h2v2H41Zm6,2H45V53h2ZM33,53h2v2H33Z"/>
+      <path id="Trazado_106737" data-name="Trazado 106737" d="M23,53h2v2H23Z"/>
+      <path id="Trazado_106738" data-name="Trazado 106738" d="M19,53h2v2H19Z"/>
+      <path id="Trazado_106739" data-name="Trazado 106739" d="M15,53h2v2H15Z"/>
+      <path id="Trazado_106740" data-name="Trazado 106740" d="M39,5H15V17H39ZM37,15H17V7H37Z"/>
+      <path id="Trazado_106741" data-name="Trazado 106741" d="M15,19h2v2H15Z"/>
+      <path id="Trazado_106742" data-name="Trazado 106742" d="M19,19H39v2H19Z"/>
+      <path id="Trazado_106743" data-name="Trazado 106743" d="M15,23H39v2H15Z"/>
+      <path id="Trazado_106744" data-name="Trazado 106744" d="M15,27H39v2H15Z"/>
+      <path id="Trazado_106745" data-name="Trazado 106745" d="M31,49H49V31H31Zm2-16H47V47H33Z"/>
+    </g>
+  </g>
+</svg>
