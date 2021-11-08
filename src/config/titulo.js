@@ -1,1 +1,1 @@
-module.exports = 'Software hotelero y las reservaciones de hoteles'
+module.exports = 'Software hotelero y las reservaciones en hoteles'

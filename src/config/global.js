@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Software hotelero y las reservaciones de hoteles',
+    componenteFormativo: 'Software hotelero y las reservaciones en hoteles',
     descripcionCurso:
       'Existe una amplia variedad de sistemas de gestión hotelera o PMS (<em>Property Management System</em>) por sus siglas en inglés, que ayudan a agilizar las operaciones de control y a facilitar los métodos de control de estas. Estos se dividen en módulos para cada área de la propiedad.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
